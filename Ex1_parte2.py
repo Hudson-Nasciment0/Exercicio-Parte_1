@@ -1,3 +1,5 @@
+# 2.Escreva um algoritmo que calcule a tabuada de um número digitado pelo usuário. 
+
 numero = int(input('Qual o Número Desejado?'))
 
 
