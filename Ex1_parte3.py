@@ -1,3 +1,5 @@
+# 3.Crie uma função que verifique se um número é primo. 
+
 def numero_primo(n):
     if n < 2:
         return False
